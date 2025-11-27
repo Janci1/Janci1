@@ -54,16 +54,14 @@ As a curious **Frontend Developer**, I enjoy researching and solving problems on
 <details>
   <summary>Click to See more details</summary>
   
-  ### Soft Skills
-  
-  * **Focus and Structure:** Ability to work with clear objectives, using lists and mini-goals to maintain productivity.
+  ### Soft Skills
+  * **Focus and Structure:** Ability to work with clear objectives, using lists and mini-goals to maintain productivity.
   * **Problem Solving:** Strong self-taught and investigative capability to solve complex technical challenges.
   * **Resilience and Consistency:** Experience in challenging environments, always maintaining a responsible attitude.
 
   ### Methodologies and Practices  
-
-  * **Agile / Scrum:** Familiar with iterative workflows and sprints.
-  * **Frontend State Management:** Experience working with Redux, Zustand, or Context API (Add the one you use).
+  * **Agile / Scrum:** Familiar with iterative workflows and sprints.
+  * **Frontend State Management:** Experience working with Redux, Zustand, or Context API (Add the one you use).
   * **Version Control:** Advanced proficiency in GIT (branching/merging workflows).
   
 </details>
