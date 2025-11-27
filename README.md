@@ -53,6 +53,16 @@ Como **desarrollador Frontend** curioso, disfruto investigando y resolviendo pro
 
 ---
 <details>
-  <summary>Haz clic para ver más estadísticas (Opcional)</summary>
-    
+  <summary>Haz clic para ver más estadísticas (Opcional)</summary>  
+  
+  ### Habilidades Blandas (Soft Skills)
+  * **Enfoque y Estructura:** Habilidad para trabajar con objetivos claros, utilizando listas y mini metas para mantener la productividad.
+  * **Resolución de Problemas:** Fuerte capacidad autodidacta e investigativa para resolver retos técnicos complejos.
+  * **Resiliencia y Constancia:** Experiencia en entornos difíciles, manteniendo siempre una actitud responsable.
+
+  ### Metodologías y Prácticas
+  * **Agile / Scrum:** Familiarizado con flujos de trabajo iterativos y sprints.
+  * **Gestión de Estados (Frontend):** Experiencia trabajando con Redux, Zustand o Context API (Añade el que uses).
+  * **Control de Versiones:** Dominio avanzado de GIT (flujos de trabajo de ramas/merges).
+  * 
 </details>
